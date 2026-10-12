@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/xtoa-logo.jpeg" alt="Xtoa AI logo" width="110" />
+<img src="xtoa-logo.jpeg" alt="Xtoa AI logo" width="110" />
 
 # KARAN RAVAL
 
