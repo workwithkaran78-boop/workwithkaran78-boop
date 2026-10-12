@@ -47,11 +47,10 @@ I'm a founder and builder, not a traditional software engineer. I focus on pract
 | **Xtoa AI** | AI automation studio for Indian SMBs. I design the WhatsApp chatbots and internal systems, and ship them end to end. | Live | [xtoa.tech](https://xtoa.tech) |
 | **Personal Portfolio** | My founder portfolio: flagship work, builds, and contact details. | Live | [karan.xtoa.tech](https://karan.xtoa.tech) |
 | **StyleMind AI** | Wardrobe and AI-stylist PWA. Upload your wardrobe, get outfit recommendations. | Live | [stylemindbyxtoa.netlify.app](https://stylemindbyxtoa.netlify.app) |
-| **FORGE, AI Fitness App** | Workout and nutrition app with an exercise library, auto-generated plans, and an AI coach. | Live, in active development | `[ADD LIVE URL]` |
-| **Xtoa CAD AI** | Browser-based parametric CAD: describe a part in plain language, get an editable 3D model. | Prototype | `[ADD DEMO URL]` |
-| **Automation Systems** | Gmail classification pipeline, YouTube content engine, daily Slack posting, all built on Make.com, Airtable, and the Claude API. | Working systems | `[ADD REPO / WRITE-UP LINK]` |
-| **AI Chatbot Demo** | WhatsApp chatbot demo for business FAQs and enquiries. | Placeholder | `[ADD DEMO URL]` |
-| **Website Projects** | Client and demo websites. | Placeholder | `[ADD REPO / LIVE LINKS]` |
+| **FORGE, AI Fitness App** | Workout and nutrition app with an exercise library, auto-generated plans, and an AI coach. | Live, in active development | [Demo on request](mailto:infoxtoa.ai@gmail.com?subject=FORGE%20demo) |
+| **Xtoa CAD AI** | Browser-based parametric CAD: describe a part in plain language, get an editable 3D model. | Prototype | [Demo on request](mailto:infoxtoa.ai@gmail.com?subject=Xtoa%20CAD%20AI%20demo) |
+| **Automation Systems** | Gmail classification pipeline, YouTube content engine, daily Slack posting, all built on Make.com, Airtable, and the Claude API. | Working systems | [Write-up on request](mailto:infoxtoa.ai@gmail.com?subject=Automation%20systems%20write-up) |
+| **WhatsApp Chatbots** | Chatbots for business FAQs, enquiries, and bookings. | Built for client demos | [Chat on WhatsApp](https://wa.me/919898405701?text=Hi%20Karan%2C%20I%20saw%20your%20GitHub) |
 
 > Source-code links are added only for repositories that are public. Client work stays private.
 
